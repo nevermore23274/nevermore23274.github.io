@@ -7,7 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'The Party Palace',
+  title: 'Sineyed',
+  subtitle: 'The Party Palace',
   lang: 'en',
   themeHue: 250,
   banner: {
