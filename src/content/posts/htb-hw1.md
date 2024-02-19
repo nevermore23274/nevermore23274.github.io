@@ -2,7 +2,7 @@
 title: Hack The Box Hardware Challenge 1 Writeup
 published: 2024-02-19
 description: 'Discussion on solving Hardware Challenge 1 - Debugging Interface on HTB'
-image: '@assets/htb-photos/covers/htb-hardware-1.png'
+image: './covers/htb-hardware-1.png'
 tags: ["Hardware", "Cyber Security"]
 category: Writeups
 draft: false 
