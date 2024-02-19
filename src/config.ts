@@ -7,8 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'The Party Palace',
   lang: 'en',
   themeHue: 250,
   banner: {
