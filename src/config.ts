@@ -24,7 +24,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://nevermore23274.github.io/',
+      url: 'https://github.com/nevermore23274',
       external: true,
     },
   ],
@@ -32,8 +32,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'Sineyed',
+  bio: 'Regular code monkey, likes to make things.',
   links: [
     {
       name: 'Twitter',
