@@ -1,5 +1,5 @@
 ---
-title: Hack the Box Sherlock Challenge 1 - Recollection.md
+title: Hack the Box Sherlock Challenge 1 - Recollection
 published: 2024-03-07
 description: ''
 image: './covers/htb-sherlock-recollection.png'
