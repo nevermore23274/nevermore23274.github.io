@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
   lang: 'en',
   themeHue: 250,
   banner: {
-    enable: false,
+    enable: true,
     src: 'assets/images/gruv.jpg',
   },
 }
