@@ -36,14 +36,9 @@ export const profileConfig: ProfileConfig = {
   bio: 'Regular code monkey, likes to make things.',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',
+      name: 'LinkedIn',
+      icon: 'fa6-brands:linkedin',
       url: 'https://twitter.com',
-    },
-    {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
     },
     {
       name: 'GitHub',
