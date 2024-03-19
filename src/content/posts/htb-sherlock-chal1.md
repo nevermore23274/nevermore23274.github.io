@@ -42,7 +42,7 @@ So the first idea was just to check out the file in general and get some basic i
 
 ![Binary information](@assets/htb-photos/screencaps/htb-sherlock/recollection/2.png)
 
-After that, I looked ![here](https://learn.microsoft.com/en-us/windows/win32/msi/productname) and noticed that `productName` should yield the name of the OS, if it's Windows. Thankfully:
+After that, I looked [here](https://learn.microsoft.com/en-us/windows/win32/msi/productname) and noticed that `productName` should yield the name of the OS, if it's Windows. Thankfully:
 
 ![Binary information](@assets/htb-photos/screencaps/htb-sherlock/recollection/3.png)
 
