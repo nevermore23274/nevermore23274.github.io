@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
   themeHue: 250,
   banner: {
     enable: false,
-    src: 'assets/images/demo-banner.png',
+    src: 'assets/images/gruv.jpg',
   },
 }
 
