@@ -1,5 +1,6 @@
 import tailwind from "@astrojs/tailwind"
 import Compress from "astro-compress"
+import image from "@astrojs/image"
 import icon from "astro-icon"
 import { defineConfig } from "astro/config"
 import Color from "colorjs.io"
