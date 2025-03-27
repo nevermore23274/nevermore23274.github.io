@@ -97,7 +97,7 @@ importers:
         specifier: ^0.5.10
         version: 0.5.16(tailwindcss@3.4.17)
       astro-compress:
-        specifier: github:astro-community/AstroCompress#no-sharp
+        specifier: https://github.com/astro-community/AstroCompress#no-sharp
         version: git+https://git@github.com:astro-community/AstroCompress.git#04082a23bdd41917632f747d1a316ed14e7dcdb9
       stylus:
         specifier: ^0.59.0
