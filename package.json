@@ -45,5 +45,10 @@
     "@tailwindcss/typography": "^0.5.10",
     "astro-compress": "github:astro-community/AstroCompress#no-sharp",
     "stylus": "^0.59.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "cheerio": "1.0.0-rc.12"
+    }
   }
 }
