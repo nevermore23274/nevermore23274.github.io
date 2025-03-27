@@ -57,10 +57,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-      #- name: Force cheerio@1 for compatibility
-      #  run: pnpm add -D cheerio@1
-      #  working-directory: ${{ env.BUILD_PATH }}
-
       - name: Install dependencies
         run: pnpm install
         working-directory: ${{ env.BUILD_PATH }}
