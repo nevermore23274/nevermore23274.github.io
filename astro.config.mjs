@@ -22,9 +22,9 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://nevermore23274.github.io",
-  outDir: "./dist",
-  build {
+  site: 'https://nevermore23274.github.io',
+  outDir: './dist',
+  build: {
     format: 'directory'
   },
   image: {
