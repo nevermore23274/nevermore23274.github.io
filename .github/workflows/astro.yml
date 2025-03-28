@@ -62,7 +62,7 @@ jobs:
         working-directory: ${{ env.BUILD_PATH }}
 
       - name: Install Sharp explicitly
-        run: pnpm install sharp
+        run: pnpm install sharp --platform=linux --arch=x64
         working-directory: ${{ env.BUILD_PATH }}
 
       - name: Build with Astro
