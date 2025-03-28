@@ -67,9 +67,7 @@ jobs:
 
       - name: Build with Astro
         run: |
-          ${{ steps.detect-package-manager.outputs.runner }} astro build \
-            --site "https://nevermore23274.github.io" \
-            --base "/"
+          ${{ steps.detect-package-manager.outputs.runner }} astro build
         working-directory: ${{ env.BUILD_PATH }}
 
       - name: Upload artifact

@@ -1,7 +1,7 @@
 ---
-title: Hack the Box Cyber Apocalypse CTF 2025 - SealedRune
+title: Hack the Box Cyber Apocalypse CTF 2025 - EncryptedScroll
 published: 2025-03-21
-description: 'The first reverse engineering challenge for the CTF'
+description: 'The second reverse engineering challenge for the CTF'
 image: './covers/htb-ctf-2025-re-sealedrune.png'
 tags: ["Reverse Engineering", "Cyber Security", "HTB Cyber Apocalypse 2025"]
 category: Writeups
@@ -19,9 +19,7 @@ draft: false
 
 # Preliminary Steps
 
-I use Arch as my host system but decided I'd like to try using a virtual machine as opposed to a Docker image this time. So I setup [Quickemu](https://github.com/quickemu-project/quickemu) and then [Quickgui](https://github.com/quickemu-project/quickgui) so that I'd be able to have a Kali Linux virtual machine.
-
-`radare2` comes preinstalled so there was no need to install anything on the virtual machine.
+N/A
 
 # Analysis
 
