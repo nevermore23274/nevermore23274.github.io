@@ -61,10 +61,6 @@ jobs:
         run: pnpm install
         working-directory: ${{ env.BUILD_PATH }}
 
-      - name: Install Sharp explicitly
-        run: pnpm add sharp
-        working-directory: ${{ env.BUILD_PATH }}
-
       - name: Build with Astro
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} astro build \
